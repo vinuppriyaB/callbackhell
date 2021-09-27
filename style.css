@@ -1,0 +1,10 @@
+#countdown{
+display :flex;
+justify-content: center;
+align-items: center;
+height:1050px;
+
+width:1900px;
+background-color: hotpink;
+font-size:90px;
+}
